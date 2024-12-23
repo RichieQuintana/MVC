@@ -1,5 +1,7 @@
 **Sistema de Control de Gastos por Departamento**
+
 Sistema web desarrollado con Flask que permite gestionar y visualizar gastos departamentales, implementando el patrón MVC.
+
 **Características**
 
 Filtrado de gastos por rango de fechas
