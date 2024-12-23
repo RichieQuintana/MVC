@@ -1,6 +1,6 @@
-Sistema de Control de Gastos por Departamento
+**Sistema de Control de Gastos por Departamento**
 Sistema web desarrollado con Flask que permite gestionar y visualizar gastos departamentales, implementando el patrón MVC.
-Características
+**Características**
 
 Filtrado de gastos por rango de fechas
 Visualización de gastos por departamento y empleado
@@ -8,13 +8,13 @@ Cálculo automático de totales por departamento
 Interfaz responsiva con Bootstrap
 Base de datos SQLite
 
-Tecnologías
+**Tecnologías**
 
 Python 3.8+
 Flask
 SQLAlchemy
 
-Estructura MVC
+**Estructura MVC**
 
 Models: /app/models/expense_model.py
 
